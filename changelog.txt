@@ -1,0 +1,39 @@
+2023.03.11:
+* changed: .externals: externals update
+* changed: changelog.txt, README_EN.txt: moved from child branch
+
+2020.04.12:
+* new: branch with the library changes at release 3.4.2 commit #3288ebb0353beb51dfb09d444dedbe9235ead53d (2020.02.12) from https://github.com/libarchive/libarchive/releases/tag/v3.4.2 (https://github.com/libarchive/libarchive/commit/3288ebb0353beb51dfb09d444dedbe9235ead53d )
+
+2020.02.17:
+* changed: cmake: removed `check_CMAKE_BUILD_TYPE_vs_multiconfig` call as not required anymore
+
+2020.02.11:
+* fixed: workaround for the library issue: `CMakeLists.txt tries to override globally visible CMAKE_BUILD_TYPE through the cache` : https://github.com/libarchive/libarchive/issues/1163
+
+2020.02.11:
+* refactor: svn/git ignores
+
+2020.02.10:
+* changed: readme update
+
+2020.01.30:
+* changed: changelog updated for more accurate links
+
+2020.01.24:
+* changed: cutted off the version reference from the readme file as may change frequently
+
+2020.01.21:
+* changed: readme file
+
+2020.01.21:
+* changed: readme file
+
+2020.01.21:
+* changed: library changes at release 3.4.1 commit #cce09646b566c61c2debff58a70da780b8457883 (2019.12.30) from https://github.com/libarchive/libarchive/releases/tag/v3.4.1 (https://github.com/libarchive/libarchive/commit/cce09646b566c61c2debff58a70da780b8457883 )
+* changed: readme file
+
+2020.01.20:
+* new: library changes at release 3.3.3 commit #5fe69dd018745a88eecf1f7db40daf12d26f7ed0 (2018.09.04) from https://github.com/libarchive/libarchive/releases/tag/v3.3.3 (https://github.com/libarchive/libarchive/commit/5fe69dd018745a88eecf1f7db40daf12d26f7ed0 )
+* new: readme file
+* new: changelog file
